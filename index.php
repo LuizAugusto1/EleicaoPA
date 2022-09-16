@@ -74,7 +74,7 @@ $eleitor = new Eleitor($_POST['nome'], $_POST['cpf'], $_POST['idade'], $_POST['v
             </form>
         </div>
     </div>
-    <a class="button" href="relatorio.php" target="_blank" style="max-width:100% ;">Relatorio</a>
+    <a class="button" href="relatorio.php" target="_blank" style="max-width:100% ;">Relatório</a>
 
 
 
