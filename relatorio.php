@@ -14,7 +14,7 @@ $eleitorDao->createEleitor($eleitor);
 
 
 <!DOCTYPE html>
-<html lang="pt_Br">
+<html lang="pt_BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
